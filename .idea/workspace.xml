@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c1a9c8da-5b64-4eb5-b655-63cf7f8ff1dc" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Aufgabe3_1810653115.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Aufgabe4_1810653115.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -23,22 +23,22 @@
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="java" value="1950" />
+          <entry key="java" value="2360" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="1950" />
+          <entry key="JAVA" value="2360" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="java" value="2" />
+          <entry key="java" value="3" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="JAVA" value="2" />
+          <entry key="JAVA" value="3" />
         </counts>
       </usages-collector>
     </session>
@@ -54,11 +54,20 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/Aufgabe3_1810653115.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="291">
+            <state relative-caret-position="304">
               <caret line="19" column="50" selection-start-line="19" selection-start-column="50" selection-end-line="19" selection-end-column="50" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/Aufgabe4_1810653115.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="368">
+              <caret line="23" lean-forward="true" selection-start-line="23" selection-end-line="23" />
             </state>
           </provider>
         </entry>
@@ -81,6 +90,7 @@
         <option value="$PROJECT_DIR$/src/Main.java" />
         <option value="$PROJECT_DIR$/src/Aufgabe2_1810653115.java" />
         <option value="$PROJECT_DIR$/src/Aufgabe3_1810653115.java" />
+        <option value="$PROJECT_DIR$/src/Aufgabe4_1810653115.java" />
       </list>
     </option>
   </component>
@@ -124,7 +134,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1541944621198" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1541945037687" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -138,7 +148,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Aufgabe3_1810653115">
+  <component name="RunManager" selected="Application.Aufgabe4_1810653115">
     <configuration name="Aufgabe2_1810653115" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Aufgabe2_1810653115" />
       <module name="1810653115_UE1" />
@@ -148,6 +158,13 @@
     </configuration>
     <configuration name="Aufgabe3_1810653115" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Aufgabe3_1810653115" />
+      <module name="1810653115_UE1" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Aufgabe4_1810653115" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Aufgabe4_1810653115" />
       <module name="1810653115_UE1" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -167,9 +184,11 @@
       <item itemvalue="Application.Main" />
       <item itemvalue="Application.Aufgabe2_1810653115" />
       <item itemvalue="Application.Aufgabe3_1810653115" />
+      <item itemvalue="Application.Aufgabe4_1810653115" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Aufgabe4_1810653115" />
         <item itemvalue="Application.Aufgabe3_1810653115" />
         <item itemvalue="Application.Aufgabe2_1810653115" />
       </list>
@@ -186,12 +205,12 @@
       <option name="presentableId" value="Default" />
       <updated>1541685005903</updated>
       <workItem from="1541685008730" duration="2745000" />
-      <workItem from="1541867214157" duration="558000" />
+      <workItem from="1541867214157" duration="914000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="3303000" />
+    <option name="totallyTimeSpent" value="3659000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="0" width="815" height="877" extended-state="0" />
@@ -213,7 +232,7 @@
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Version Control" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Terminal" order="9" weight="0.32978722" />
+      <window_info anchor="bottom" id="Terminal" order="9" weight="0.3293011" />
       <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
       <window_info anchor="bottom" id="Messages" order="11" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
@@ -244,8 +263,15 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Aufgabe3_1810653115.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="291">
+        <state relative-caret-position="304">
           <caret line="19" column="50" selection-start-line="19" selection-start-column="50" selection-end-line="19" selection-end-column="50" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Aufgabe4_1810653115.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="368">
+          <caret line="23" lean-forward="true" selection-start-line="23" selection-end-line="23" />
         </state>
       </provider>
     </entry>
